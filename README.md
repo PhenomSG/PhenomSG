@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Sahaj Gupta</h1>
-<h2 align="center">🚀 Passionate Developer | AI & ML Enthusiast | Competitive Programmer</h2>
+<h2 align="center">🚀 Python | GenAI & NLP Dev | Competitive Programmer</h2>
 
 <p align="center">
   A tech enthusiast driven by problem-solving and innovation. I specialize in Python development, Machine Learning, and AI, while also excelling in competitive programming. With a strong foundation in algorithms, data structures, and cloud computing, I love tackling real-world challenges and building impactful projects. Always exploring new technologies, open-source contributions, and the limitless possibilities of AI! 
