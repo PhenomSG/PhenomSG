@@ -17,5 +17,6 @@
 
 <h3 align="center"> GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhenomSG&theme=tokyonight" alt="GitHub Streak" width="45%" />
+ <img src="https://streak-stats.demolab.com?user=phenomsg&theme=dark&hide_border=true" alt="phenomsg's GitHub Stats" />
 </div>
+
