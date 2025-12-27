@@ -1,12 +1,12 @@
-<h2 align="center">
-  🥊 "Precision beats power, timing beats speed" — but I use Arch btw 😎
-</h2>
+<p align="center">
+  <img src="77.png" alt="Header Image" width="50%" />
+</p>
 
 <p align="center">
   <samp>
     <a href="https://phenomsg.github.io/">Portfolio</a> •
     <a href="https://github.com/PhenomSG">GitHub</a> •
-    <a href="https://www.leetcode.com/pyorz">LeetCode</a> •
+    <a href="https://www.leetcode.com/phenomsg">LeetCode</a> •
     <a href="https://codeforces.com/profile/pyorz">Codeforces</a> •
     <a href="https://www.kaggle.com/phenomsg">Kaggle</a> •
     <a href="https://orcid.org/0009-0008-6994-0160">ORCID</a> •
