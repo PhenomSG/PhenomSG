@@ -5,7 +5,6 @@
 <p align="center">
   <samp>
     <a href="https://phenomsg.github.io/">Portfolio</a> •
-    <a href="https://github.com/PhenomSG">GitHub</a> •
     <a href="https://www.leetcode.com/phenomsg">LeetCode</a> •
     <a href="https://codeforces.com/profile/pyorz">Codeforces</a> •
     <a href="https://www.kaggle.com/phenomsg">Kaggle</a> •
