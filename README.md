@@ -7,7 +7,7 @@
     <a href="https://www.kaggle.com/phenomsg">Kaggle</a> •
     <a href="https://hub.docker.com/u/phenomsg">Docker</a> •
     <a href="https://orcid.org/0009-0008-6994-0160">ORCID</a> •
-    <a href="https://scholar.google.com/citations?user=E2369sgAAAAJ&hl=en">Google Scholar</a> •
+    <a href="https://scholar.google.com/citations?user=E2369sgAAAAJ&hl=en">GoogleScholar</a> •
     <a href="https://www.researchgate.net/profile/Sahaj-Gupta-2">ResearchGate</a> •
     <a href="https://www.chess.com/member/gossip_girlz">Chess</a> •
     <a href="https://drive.google.com/drive/folders/1mdV1wVu-px1EqNXy7Go2twFMuLg6FgSz?usp=sharing">Resume</a>
