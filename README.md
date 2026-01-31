@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="77.png" alt="Header Image" width="50%" />
-</p>
-
-<p align="center">
   <samp>
     <a href="https://phenomsg.github.io/">Portfolio</a> •
     <a href="https://github.com/PhenomSG">GitHub</a> •
@@ -22,19 +18,13 @@
   <img
     src="https://leetcard.jacoblin.cool/pyorz?ext=contest&theme=dark"
     alt="LeetCode Stats"
-    width="30%"
-    height="250px"
-  />
-  <img
-    src="https://leetcard.jacoblin.cool/phenomsg?ext=contest&theme=dark"
-    alt="LeetCode Stats"
-    width="30%"
+    width="45%"
     height="250px"
   />
   <img
     src="https://codeforces-readme-stats.vercel.app/api/card?username=pyorz&theme=dark"
     alt="Codeforces Stats"
-    width="30%"
+    width="45%"
     height="250px"
   />
 </p>
