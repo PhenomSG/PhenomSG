@@ -22,20 +22,19 @@
   <img
     src="https://leetcard.jacoblin.cool/pyorz?ext=contest&theme=dark"
     alt="LeetCode Stats"
-    width="45%"
+    width="30%"
     height="250px"
   />
-  <p align="center">
   <img
     src="https://leetcard.jacoblin.cool/phenomsg?ext=contest&theme=dark"
     alt="LeetCode Stats"
-    width="45%"
+    width="30%"
     height="250px"
   />
   <img
     src="https://codeforces-readme-stats.vercel.app/api/card?username=pyorz&theme=dark"
     alt="Codeforces Stats"
-    width="45%"
+    width="30%"
     height="250px"
   />
 </p>
