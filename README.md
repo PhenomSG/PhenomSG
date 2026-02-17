@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://phenomsg.github.io/">Portfolio</a> •
-    <a href="https://drive.google.com/drive/folders/1mdV1wVu-px1EqNXy7Go2twFMuLg6FgSz?usp=sharing">Resume</a>
+    <a href="https://drive.google.com/drive/folders/1mdV1wVu-px1EqNXy7Go2twFMuLg6FgSz?usp=sharing">Resume</a> •
     <a href="https://www.leetcode.com/pyorz">LeetCode</a> •
     <a href="https://codeforces.com/profile/pyorz">Codeforces</a> •
     <a href="https://www.kaggle.com/phenomsg">Kaggle</a> •
